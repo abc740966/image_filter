@@ -245,3 +245,5 @@ def brighten(raster):
         brighten_raster.append(rows)
     return brighten_raster
 
+main()
+
